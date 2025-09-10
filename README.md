@@ -26,34 +26,35 @@ Each pattern is isolated as a **subproject** (per language)
 The **Gang of Four** design patterns fall into three categories: **Creational**, **Structural**, and **Behavioral**.  
 Below is the list I’ll be going through and demonstrating in this repo.
 
-### Creational Patterns
-1. **Factory Method**  
-2. **Abstract Factory**  
-3. **Builder**  
-4. **Prototype**  
-5. **Singleton**
+## Creational Patterns
+1. Factory Method [(.NET)](dotnet/DesignPatterns/DesignPatterns.Creational.FactoryMethod)  
+2. Abstract Factory [(.NET)](dotnet/DesignPatterns/DesignPatterns.Creational.AbstractFactory)  
+3. Builder [(.NET)](dotnet/DesignPatterns/DesignPatterns.Creational.Builder)  
+4. Prototype [(.NET)](dotnet/DesignPatterns/DesignPatterns.Creational.Prototype)  
+5. Singleton [(.NET)](dotnet/DesignPatterns/DesignPatterns.Creational.Singleton)  
 
-### Structural Patterns
-6. **Adapter**  
-7. **Bridge**  
-8. **Composite**  
-9. **Decorator**  
-10. **Facade**  
-11. **Flyweight**  
-12. **Proxy**
+## Structural Patterns
+6. Adapter [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Adapter)  
+7. Bridge [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Bridge)  
+8. Composite [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Composite)  
+9. Decorator [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Decorator)  
+10. Facade [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Facade)  
+11. Flyweight [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Flyweight)  
+12. Proxy [(.NET)](dotnet/DesignPatterns/DesignPatterns.Structural.Proxy)  
 
-### Behavioral Patterns
-13. **Chain of Responsibility** 
-14. **Command**  
-15. **Interpreter**  
-16. **Iterator**  
-17. **Mediator**  
-18. **Memento**  
-19. **Observer**  
-20. **State**  
-21. **Strategy**  
-22. **Template Method**  
-23. **Visitor**
+## Behavioral Patterns
+13. Chain of Responsibility [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.ChainOfResponsibility)  
+14. Command [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Command)  
+15. Interpreter [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Interpreter)  
+16. Iterator [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Iterator)  
+17. Mediator [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Mediator)  
+18. Memento [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Memento)  
+19. Observer [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Observer)  
+20. State [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.State)  
+21. Strategy [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Strategy)  
+22. Template Method [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.TemplateMethod)  
+23. Visitor [(.NET)](dotnet/DesignPatterns/DesignPatterns.Behavioral.Visitor)  
+
 
 ---
 
