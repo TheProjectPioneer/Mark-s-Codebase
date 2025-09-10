@@ -12,7 +12,7 @@ The goal is not just to re-implement patterns blindly, but to:
 ---
 
 ## Structure
-
+test
 - `/net` → .NET implementations (C#, xUnit, console demos).  
 - `/angular` → Angular workspace (one demo app + one lib per pattern).  
 - `/docs` → Explanations, UML diagrams (PlantUML / Mermaid), notes.  
